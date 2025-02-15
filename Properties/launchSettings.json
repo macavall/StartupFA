@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "http11fa": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7014",
+      "launchBrowser": false
+    }
+  }
+}
