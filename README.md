@@ -1,3 +1,3 @@
 # README
 
-![image](https://github.com/user-attachments/assets/46351787-c884-421f-a0bc-d037fa2bb271)
+![image](https://github.com/macavall/StartupFA/blob/c55fb9671b4d4b1debfb071d928bfbcd4f4e4d0c/images/image1.png)
